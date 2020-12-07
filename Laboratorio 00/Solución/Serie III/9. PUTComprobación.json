@@ -1,0 +1,15 @@
+/*El dato original antes de hacer el PUT*/
+{
+    "id": 3,
+    "date": "2020-08-03T00:00:00",
+    "usd": 7.86,
+    "gtq": 1
+}
+
+/*La salida del GET con el dato modificado*/
+{
+    "id": 3,
+    "date": "2020-10-10T12:20:10",
+    "usd": 6.25,
+    "gtq": 1
+}

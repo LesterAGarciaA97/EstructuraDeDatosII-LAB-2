@@ -1,0 +1,31 @@
+/*https://localhost:44332/api/exchangerate/2020-10-10T12:20:10*/
+/*Ruta que se utilizó para eliminar el objeto con esa fecha en específico*/
+
+/*Respuesta obtenida en el método GET para comprobar que el objeto fue eliminado con éxito*/
+
+[
+    {
+        "id": 1,
+        "date": "2020-08-01T00:00:00",
+        "usd": 7.9,
+        "gtq": 1
+    },
+    {
+        "id": 2,
+        "date": "2020-08-02T00:00:00",
+        "usd": 7.88,
+        "gtq": 1
+    },
+    {
+        "id": 4,
+        "date": "2020-08-04T00:00:00",
+        "usd": 7.92,
+        "gtq": 1
+    },
+    {
+        "id": 5,
+        "date": "2020-08-05T00:00:00",
+        "usd": 7.87,
+        "gtq": 1
+    }
+]

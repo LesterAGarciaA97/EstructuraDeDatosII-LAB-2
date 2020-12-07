@@ -1,0 +1,7 @@
+/*Se modificó un elemento de la lista basándonos en su fecha*/
+{
+    "id": 3,
+    "date": "2020-10-10T12:20:10",
+    "usd": 6.25,
+    "gtq": 1
+}

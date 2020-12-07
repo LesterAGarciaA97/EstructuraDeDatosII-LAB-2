@@ -1,0 +1,7 @@
+/*Método POST utilizado por primera vez, ingreso de datos en formato JSON*/
+{
+    "id": 6,         
+    "date": "2020-08-25T00:00:00",         
+    "usd": 7.52,         
+    "gtq": 1     
+}
